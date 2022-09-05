@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://DenysTretiak.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://DenysTretiak.github.io/task-management-frontend/static/js/main.c3fb3a10.chunk.js",
+    "main.js.map": "https://DenysTretiak.github.io/task-management-frontend/static/js/main.c3fb3a10.chunk.js.map",
+    "runtime~main.js": "https://DenysTretiak.github.io/task-management-frontend/static/js/runtime~main.a49934af.js",
+    "runtime~main.js.map": "https://DenysTretiak.github.io/task-management-frontend/static/js/runtime~main.a49934af.js.map",
+    "static/js/2.c162acc6.chunk.js": "https://DenysTretiak.github.io/task-management-frontend/static/js/2.c162acc6.chunk.js",
+    "static/js/2.c162acc6.chunk.js.map": "https://DenysTretiak.github.io/task-management-frontend/static/js/2.c162acc6.chunk.js.map",
+    "index.html": "https://DenysTretiak.github.io/task-management-frontend/index.html",
+    "precache-manifest.6f077ceae17724d4f4b5d0d4e38fce0b.js": "https://DenysTretiak.github.io/task-management-frontend/precache-manifest.6f077ceae17724d4f4b5d0d4e38fce0b.js",
+    "service-worker.js": "https://DenysTretiak.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://DenysTretiak.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
